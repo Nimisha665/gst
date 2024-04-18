@@ -1,0 +1,28 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set height to full viewport height */
+  }
+  
+  form {
+    background-color: white; /* Set background color of the form to white */
+    /* border: solid black 2px; */
+    border-radius: 5px;
+    width: 80%; /* Adjust the width as needed */
+    max-width: 400px; /* Set a maximum width for the form */
+    padding: 20px; /* Add some padding for better appearance */
+  }
+  
+  .App {
+    background: linear-gradient(to right,#4d66a3 , #263763);/* Set background color of the entire page to blue */
+    height: 100vh; /* Ensure the entire page height is covered */
+    margin: 0; /* Remove default margin */
+  }
+
+  
+
+  .gstInput{
+    border-radius: 5px;
+  }
+  
